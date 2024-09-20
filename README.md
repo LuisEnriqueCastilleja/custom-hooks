@@ -1,3 +1,3 @@
 # Custom Hooks
 
-Repositorio de custom hooks
+Repository of custom hooks created in a Udemy course.
